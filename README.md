@@ -1,3 +1,6 @@
+
+# support seurat v4
+
 # SeuratWrappers
 
 SeuratWrappers is a collection of community-provided methods and extensions for [Seurat](https://satijalab.org/seurat/), curated by the Satija Lab at NYGC. These methods comprise functionality not presently found in Seurat, and are able to be updated much more frequently.
@@ -9,7 +12,7 @@ Individual method vignettes can be found in the [`docs/`](https://github.com/sat
 Installation can be accomplished through [remotes](https://cran.r-project.org/package=remotes)
 
 ```R
-remotes::install_github('satijalab/seurat-wrappers')
+remotes::install_github('Byronxy/seurat-wrappers/seurat-wrappers')
 ```
 
 ## Method Listing
