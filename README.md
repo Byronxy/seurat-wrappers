@@ -12,7 +12,7 @@ Individual method vignettes can be found in the [`docs/`](https://github.com/sat
 Installation can be accomplished through [remotes](https://cran.r-project.org/package=remotes)
 
 ```R
-remotes::install_github('Byronxy/seurat-wrappers/seurat-wrappers')
+remotes::install_github('Byronxy/seurat-wrappers')
 ```
 
 ## Method Listing
